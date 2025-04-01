@@ -82,4 +82,5 @@ You can simply store them in files, or you can use any format for serialization.
 
 ### How to check code style
 
-You need to run the `build` Gradle task with the `runDetekt` argument: `./gradlew build -PrunDetekt`
+You need to run the `build` Gradle task with the `runDetekt` argument: `./gradlew build -PrunDetekt`#   A S D - R a i m o H  
+ 
